@@ -320,7 +320,7 @@ export const items: Item[] = [
     id: 45,
     quantity: 0,
     title: "NBA Team",
-    price: 2120000000,
+    price: 2130000000,
     img: "nba-team.jpg",
   },
 ];
